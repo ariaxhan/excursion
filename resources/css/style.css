@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: pink;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -11,7 +11,7 @@ body{
     text-align: center;
 }
 
-.link--cta {
-    font-size: 16px;
+.link-one {
     color: aquamarine;
+    font-size: 16px;
 }
