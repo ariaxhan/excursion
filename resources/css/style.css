@@ -11,7 +11,27 @@ body{
     text-align: center;
 }
 
+.header-two {
+    color: white;
+    font-weight: 300;
+    font-size:42px;
+    text-align: center;
+}
+
+.header-four {
+    color: gray;
+    font-size:21px;
+    text-align: center;
+}
+
+
 .link-one {
     color: aquamarine;
     font-size: 16px;
+}
+
+.copyright {
+    color: gray;
+    text-align: right;
+    font-size: 21px;
 }
